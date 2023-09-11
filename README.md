@@ -8,4 +8,5 @@
 
 Переходим впапку Frontend (cd Frontend)
 Устанавливаем зависимости (npm install)
+Переходим в папку frontend (cd frontend)
 Запускаем сервер (npm start)
