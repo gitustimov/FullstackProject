@@ -1,7 +1,7 @@
 # FullstackProject
 Практическая работа 4.6
 
-В папке Backend создаем виртуальное окружение (python -m venv venv)
+В папке Backend создаем виртуальное окружение (python3 -m venv venv)
 Активируем виртуальное окружение (source venv/bin/activate)
 Устанавливаем зависимости (pip install -r requirements.txt)
 Переходим в каталог project, запускаем сервер (python manage.py runserver)
