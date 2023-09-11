@@ -1,0 +1,17 @@
+h2 {
+    margin: 20px;
+}
+
+h2.category-name {
+    color: rgb(20, 219, 30);
+}
+
+nav.dishes {
+    display: flex;
+    flex-direction: column;
+}
+
+li {
+    list-style-position: inside;
+    list-style-type: square;
+}
