@@ -6,7 +6,7 @@
 Устанавливаем зависимости (pip install -r requirements.txt)
 Переходим в каталог project, запускаем сервер (python manage.py runserver)
 
-Открывам второй терминал (Ctrl+T)
+Открываем второй терминал (Ctrl+T)
 Переходим впапку Frontend (cd Frontend)
 Устанавливаем зависимости (npm install)
 Переходим в папку frontend (cd frontend)
